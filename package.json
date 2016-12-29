@@ -1,0 +1,21 @@
+{
+  "suluPackage": true,
+  "name": "sulu-file-system-view-preview",
+  "description": "SULU file system item preview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulu-one/sulu-file-system-view-preview.git"
+  },
+  "keywords": [],
+  "author": "s-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sulu-one/sulu-file-system-view-preview/issues"
+  },
+  "homepage": "https://github.com/sulu-one/sulu-file-system-view-preview#readme"
+}
