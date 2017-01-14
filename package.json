@@ -2,7 +2,7 @@
   "suluPackage": true,
   "name": "sulu-file-system-view-preview",
   "description": "SULU file system item preview",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && git push && git push --tags && npm publish",
