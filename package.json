@@ -1,15 +1,15 @@
 {
   "suluPackage": {
-    "hotkeys" : [
+    "hotkeys": [
       {
-        "key" : "ctrl+p" , 
-        "function" : "preview"
+        "key": "ctrl+p",
+        "function": "preview"
       }
     ]
-  }, 
+  },
   "name": "sulu-file-system-view-preview",
   "description": "SULU file system item preview",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "bump": "npm version patch && git push && git push --tags && npm publish",
