@@ -22,7 +22,6 @@ Command.prototype.preview = function preview() {
 
 var Plugin = function  (client) {
 	this.command = new Command();
-	client.app.registerHotKey("ctrl+p", this.command.preview);
 };
 
 module.exports = Plugin;
